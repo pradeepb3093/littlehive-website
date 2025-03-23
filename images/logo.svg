@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="100" viewBox="0 0 200 100">
+  <!-- Hexagon 1 -->
+  <polygon 
+    points="20,30 30,25 40,30 40,40 30,45 20,40" 
+    fill="none" 
+    stroke="#e0a528" 
+    stroke-width="2" 
+  />
+  <!-- Hexagon 2 -->
+  <polygon 
+    points="40,30 50,25 60,30 60,40 50,45 40,40" 
+    fill="none" 
+    stroke="#e0a528" 
+    stroke-width="2" 
+  />
+  <!-- Hexagon 3 -->
+  <polygon 
+    points="30,45 40,40 50,45 50,55 40,60 30,55" 
+    fill="none" 
+    stroke="#e0a528" 
+    stroke-width="2" 
+  />
+
+  <!-- Text -->
+  <text x="70" y="50" fill="white" font-size="24" font-family="Arial" text-anchor="start" dominant-baseline="middle">
+    Little Hive
+  </text>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <!-- Outer Hexagon -->
+  <polygon 
+    points="100,10 170,55 170,145 100,190 30,145 30,55" 
+    fill="#f4c542" 
+    stroke="#e0a528" 
+    stroke-width="5" 
+  />
+
+  <!-- Inner Hexagon Pattern -->
+  <polygon points="100,40 140,65 140,135 100,160 60,135 60,65" fill="#e0a528" />
+  <circle cx="100" cy="100" r="15" fill="#5a3d1a" />
+</svg>
